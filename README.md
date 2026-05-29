@@ -1,5 +1,5 @@
 # Kate-Dale-Archaeology-Honours-Thesis
-This Excel document contains multiple worksheets that contain the Dataset Schema definitions and the Dataset as well as additional worksheets that contain pinot tables and charts created to analysis specific aspects of the dataset.
+This Excel document contains multiple worksheets that contain the Dataset Schema definitions and the Dataset as well as additional worksheets that contain pivot tables and charts created to analysis specific aspects of the dataset.
 
 Dataset Schema Worksheet: Contains the defintions for each of the fields within the dataset 
 
